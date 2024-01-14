@@ -1,0 +1,12 @@
+.columns{
+    margin-top:15px;
+}
+body{
+    display:grid;
+}
+.flash-card{
+    place-self: center;
+}
+.display-image{
+    height: 250px;
+}
